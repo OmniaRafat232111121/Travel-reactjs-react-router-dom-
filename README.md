@@ -35,6 +35,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+https://user-images.githubusercontent.com/76200523/161440485-9eb1c3c7-889b-42d0-a60d-8a0e032c1beb.mp4
+
+
+
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
@@ -68,3 +72,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+https://user-images.githubusercontent.com/76200523/161440526-cb00f8d9-cdf5-4d57-b53a-9cb34daf5d50.mp4
+
+
+
+https://user-images.githubusercontent.com/76200523/161440544-8c5feebe-e1a2-41f7-babd-973688ae3f21.mp4
+
+![Screenshot (174)](https://user-images.githubusercontent.com/76200523/161440678-f66f17e3-e2b4-4552-9bf9-77f032d4561c.png)
+![Screenshot (175)](https://user-images.githubusercontent.com/76200523/161440706-6bfb36ea-59b0-4aa5-834d-1aa46c9090f1.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/76200523/161440722-4d3bd426-6924-4308-986d-d4e902b157df.png)
